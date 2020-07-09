@@ -1,4 +1,4 @@
-# Firebird 3.0
+# Firebird 3.0 - Cálculo de juros/financiamento
 Procedures criadas por Breno Novais Andrade no Banco Firebird para realizar o cálculo de juro/financiamento via banco de dados (Funções do Excel: TIR, XTIR, PGTO).
 
 1 - A procedure BUSCA_TIR irá retornar a Taxa Interna de Retorno de uma operação financeira.
